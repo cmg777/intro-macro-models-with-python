@@ -1,3 +1,4 @@
+watermark==2.1.0
 sympy==1.7.1
 numpy==1.19.4
 matplotlib==2.2.5
